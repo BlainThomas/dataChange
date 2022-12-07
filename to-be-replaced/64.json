@@ -1,0 +1,39 @@
+{
+  "name": "Test Collection #64",
+  "description": "Test description",
+  "image": "ipfs://NewUriToReplace/64.png",
+  "dna": "8ca27521450312a4888795948c7a23c1698d34db",
+  "edition": 64,
+  "date": 1670454678409,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Low"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "High"
+    }
+  ],
+  "compiler": "Blain Thomas Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Test Collection #178",
+  "description": "Test description",
+  "image": "ipfs://NewUriToReplace/178.png",
+  "dna": "d827692f55ddca4f111bc90a9c35cf447a33d723",
+  "edition": 178,
+  "date": 1670454690921,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Low"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Low"
+    }
+  ],
+  "compiler": "Blain Thomas Art Engine"
+}

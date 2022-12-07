@@ -1,0 +1,39 @@
+{
+  "name": "Test Collection #297",
+  "description": "Test description",
+  "image": "ipfs://NewUriToReplace/297.png",
+  "dna": "a771ea4b82bb978ca426761a84685f8dcc55d82c",
+  "edition": 297,
+  "date": 1670454704150,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Middle"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Low"
+    }
+  ],
+  "compiler": "Blain Thomas Art Engine"
+}
