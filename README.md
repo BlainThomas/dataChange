@@ -11,4 +11,4 @@ This was built to replace several different lines in some metadata as provided.
 
 [Github Link](https://github.com/BlainThomas)
 
-<img src="https://cdn3.emoji.gg/emojis/1887_python.png" alt="drawing" width="40"/>
+<img src="https://github.com/BlainThomas/BlainThomas/blob/master/logos/Python.png" alt="drawing" width="40"/>
