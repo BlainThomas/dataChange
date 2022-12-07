@@ -1,4 +1,3 @@
-
 # json Text replacment
 Replace a line of text in json file
 
@@ -11,3 +10,5 @@ replaced folder.
 This was built to replace several different lines in some metadata as provided.
 
 [Github Link](https://github.com/BlainThomas)
+
+<img src="https://cdn3.emoji.gg/emojis/1887_python.png" alt="drawing" width="40"/>
